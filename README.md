@@ -1,5 +1,12 @@
 ### Hey there! 👋
-<a href="https://app.daily.dev/ifang"><img src="https://api.daily.dev/devcards/753b727bdde64b94977563c47bbb4073.png?r=gdm" width="400" alt="Ivan Fang's Dev Card"/></a>
+Have a look around my profile to see what I've done 😁
+
+<p align="center">
+  <a href="https://app.daily.dev/ifang">
+    <img src="https://api.daily.dev/devcards/753b727bdde64b94977563c47bbb4073.png?r=gdm" width="400" alt="Ivan Fang's Dev Card"/>
+  </a>
+</p>
+
 <!--
 **iFangg/iFangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
