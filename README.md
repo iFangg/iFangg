@@ -1,11 +1,20 @@
 ### Hey there! 👋
-Have a look around my profile to see what I've done 😁
+
+I'm Ivan and I'm a 2nd year Computer Science student at UNSW.
+
+If you take a look around my profile, you'll see that I've contributed to and created various projects. So far, these projects include:
+- [Discord chat bot](https://github.com/iFangg/discord_bot) (2021)
+- A hackathon project: [Sound Sights](https://github.com/dylanwz/SoundSights) (2023)
+- My [website](http://ivan-fang.com)! (2023)
 
 <p align="center">
   <a href="https://app.daily.dev/ifang">
     <img src="https://api.daily.dev/devcards/753b727bdde64b94977563c47bbb4073.png?r=gdm" width="400" alt="Ivan Fang's Dev Card"/>
   </a>
 </p>
+
+
+
 
 <!--
 **iFangg/iFangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
