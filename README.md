@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm Ivan and I'm a 2nd year Computer Science student at UNSW.
+I'm Ivan and I'm a 3rd year Computer Science student at UNSW.
 
 If you take a look around my profile, you'll see that I've contributed to and created various projects. So far, these projects include:
 - [Discord chat bot](https://github.com/iFangg/discord_bot) (2021)
