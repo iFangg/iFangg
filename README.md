@@ -6,6 +6,7 @@ If you take a look around my profile, you'll see that I've contributed to and cr
 - [Discord chat bot](https://github.com/iFangg/discord_bot) (2021)
 - A hackathon project: [Sound Sights](https://github.com/dylanwz/SoundSights) (2023)
 - My [website](http://ivan-fang.com)! (2023)
+- A workout timer (coming soon)
 
 <p align="center">
   <a href="https://app.daily.dev/ifang">
