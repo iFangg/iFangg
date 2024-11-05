@@ -10,12 +10,13 @@ If you take a look around my profile, you'll see that I've contributed to and cr
 - UNSW's Artificial Intelligence Society ([UNSW AIsoc](https://github.com/AISoc-UNSW)) pages
 - Another hackathon project: [DIS_Solar from GovHack 2024](https://github.com/iFangg/govhack-2024) (2024)
 
+<!---
 <p align="center">
   <a href="https://app.daily.dev/ifang">
     <img src="https://api.daily.dev/devcards/753b727bdde64b94977563c47bbb4073.png?r=gdm" width="400" alt="Ivan Fang's Dev Card"/>
   </a>
 </p>
-
+-->
 
 
 
