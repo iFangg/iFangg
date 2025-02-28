@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm Ivan and I'm a 3rd year Computer Science student at UNSW.
+I'm Ivan and I'm a Computer Science Graduate from UNSW.
 
 If you take a look around my profile, you'll see that I've contributed to and created various projects. So far, these projects include:
 - [Discord chat bot](https://github.com/iFangg/discord_bot) (2021)
@@ -9,6 +9,7 @@ If you take a look around my profile, you'll see that I've contributed to and cr
 - A [workout timer](https://github.com/iFangg/W.timer)
 - UNSW's Artificial Intelligence Society ([UNSW AIsoc](https://github.com/AISoc-UNSW)) pages
 - Another hackathon project: [DIS_Solar from GovHack 2024](https://github.com/iFangg/govhack-2024) (2024)
+- An [ANKI Flashcard Dupe](#) (Coming soon!)
 
 <!---
 <p align="center">
