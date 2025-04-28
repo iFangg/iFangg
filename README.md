@@ -9,7 +9,7 @@ If you take a look around my profile, you'll see that I've contributed to and cr
 - A [workout timer](https://github.com/iFangg/W.timer)
 - UNSW's Artificial Intelligence Society ([UNSW AIsoc](https://github.com/AISoc-UNSW)) pages (2024)
 - GOVHACK 2024: [DIS_Solar](https://github.com/iFangg/govhack-2024) (2024)
-- UNIHACK: "[Lock-in](#)" (2025)
+- UNIHACK: "[Lock-in](https://devpost.com/software/lock-in-q1gm83)" (2025)
 - An [ANKI Flashcard Dupe](https://github.com/iFangg/dylANKI) (2025)
 - IOS App: [Open me!](#) (Coming soon!)
 
