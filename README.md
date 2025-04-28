@@ -4,12 +4,14 @@ I'm Ivan and I'm a Computer Science Graduate from UNSW.
 
 If you take a look around my profile, you'll see that I've contributed to and created various projects. So far, these projects include:
 - [Discord chat bot](https://github.com/iFangg/discord_bot) (2021)
-- A hackathon project: [Sound Sights](https://github.com/dylanwz/SoundSights) (2023)
-- My [website](http://ivan-fang.com)! (2023)
+- UNIHACK 2023: [Sound Sights](https://github.com/dylanwz/SoundSights) (2023)
+- My [website](http://ivan-fang.com)! (coming back soon!)
 - A [workout timer](https://github.com/iFangg/W.timer)
-- UNSW's Artificial Intelligence Society ([UNSW AIsoc](https://github.com/AISoc-UNSW)) pages
-- Another hackathon project: [DIS_Solar from GovHack 2024](https://github.com/iFangg/govhack-2024) (2024)
-- An [ANKI Flashcard Dupe](#) (Coming soon!)
+- UNSW's Artificial Intelligence Society ([UNSW AIsoc](https://github.com/AISoc-UNSW)) pages (2024)
+- GOVHACK 2024: [DIS_Solar](https://github.com/iFangg/govhack-2024) (2024)
+- UNIHACK: "[Lock-in](#)" (2025)
+- An [ANKI Flashcard Dupe](https://github.com/iFangg/dylANKI) (2025)
+- IOS App: [Open me!](#) (Coming soon!)
 
 <!---
 <p align="center">
