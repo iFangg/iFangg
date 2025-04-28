@@ -3,7 +3,7 @@
 I'm Ivan and I'm a Computer Science Graduate from UNSW.
 
 If you take a look around my profile, you'll see that I've contributed to and created various projects. So far, these projects include:
-- [Discord chat bot](https://github.com/iFangg/discord_bot) (2021)
+- [Discord chat bots](https://github.com/iFangg/discord_bot) (2021)
 - UNIHACK 2023: [Sound Sights](https://github.com/dylanwz/SoundSights) (2023)
 - My [website](http://ivan-fang.com)! (coming back soon!)
 - A [workout timer](https://github.com/iFangg/W.timer)
